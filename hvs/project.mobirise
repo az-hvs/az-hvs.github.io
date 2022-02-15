@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "HVS",
-    "currentPage": "index.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -57,10 +57,10 @@
     "publishChangesOnly": true
   },
   "pages": {
-    "index.html": {
+    "home.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "AZ HVS (Arizona Household Virus Study)",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
